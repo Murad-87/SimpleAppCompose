@@ -1,4 +1,4 @@
-package com.muslim.simpleappcompose
+package com.muslim.simpleappcompose.test
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.border
